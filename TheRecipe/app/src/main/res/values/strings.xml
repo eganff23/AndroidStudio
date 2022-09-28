@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">The Recipe</string>
+    <string name="judul_thericipe">The Recipe</string>
+    <string name="sub_semua">Semua Bisa Masak</string>
+    <string name="button_started">login</string>
+    <string name="maumasak">Hai! Mau Masak Apa Hari Ini?</string>
+    <string name="desc_steak">Steak Daging Saus Jamur</string>
+    <string name="waktu_kal">35 Menit | 781 Kkal</string>
+    <string name="resep_steak">Makan steak enak nggak harus di restoran mahal, kok! Kamu bisa bikin steak daging dengan saus yang nggak kalah enaknya dari dapurmu sendiri. Dengan bahan-bahan yang cukup mudah ditemukan, makanan ini pas banget untuk hari spesial.
+\n\n<b>Bahan Steak:</b>\n\n370 gr Daging Sapi Lokal\n\n 1 sdt AJI-NO-MOTO®\n\n¼ sdt Paprika Bubuk\n\n½ sdt Daun Rosemary Kering\n\n2 sdm Minyak Goreng
+        \n\n<b>Bahan Saus Jamur:</b>
+        \n\n100 gr Jamur Kancing Segar (iris)\n\n3 btr Bawang Putih Cincang\n\n1 sdt Ajinomoto\n\n¼ sdt Merica Bubuk Hitam\n\n1 sdm Margarin\n\n50 ml Air\n\n1 sdt Tepung Maizena larutkan dengan 1 sdm air
+\n\n<b>Bahan Pelengkap:</b>\n\nCarrot Mashed Potato
+    \n\n<b>Cara Memasak:</b>\n\n <b>Langkah 1</b>\n\nBumbui daging dengan AJI-NO-MOTO®, paprika bubuk dan daun rosemary hingga rata, diamkan 5 menit.\n\n<b>Langkah 2</b>\n\nBuat saus: Panaskan margarin, masukkan bawang putih hingga harum, tambahkan jamur, AJI-NO-MOTO®, merica, tumis hingga empuk.\n\n<b>Langkah 3</b>\n\nMasukkan air dan tepung maizena masak hingga mengental, angkat dan sisihkan.\n\n<b>Langkah 4</b>\n\nPanaskan wajan minyak hingga panas, masak steak daging selama 3 menit di setiap sisi nya hingga matang. Angkat. Sajikan hangat steak dengan saus jamur dan bahan pelengkap.
+    </string>
+    <string name="body1">Steak Daging Saus Jamur</string>
+    <string name="share_ic">Share</string>
+    <string name="desc_bakso">Bakso Sayur</string>
+    <string name="waktu_kal1">40 Menit | 183 Kkal</string>
+    <string name="resep_bakso">Siapa bilang kalau menu sehat itu nggak enak? The Recipe punya solusinya! Walaupun dengan bahan dasar sayur, banyak sekali resep sehat yang cara buatnya praktis, memakai bahan-bahan sederhana, dan tentunya enak untuk dimakan bersama orang-orang terdekat! Nih, langsung kenalan aja sama resep satu ini.
+   \n\n<b>Bahan-bahan:</b>\n\n100 gr Bayam (rebus dan cincang)\n\n80 gr Wortel (rebus dan cincang)\n\n200 gr Daging giling sapi\n\n80 gr Tepung kanji\n\n5 btr Bawang putih (haluskan)\n\n1 sdt AJI-NO-MOTO®\n\n½ sdt Merica bubuk\n\n2 ltr Air untuk merebus
+        \n\n<b>Bumbu Kuah:</b>\n\nDidihkan semua\n\n500 ml Air\n\n½ sdt AJI-NO-MOTO®\n\n¼ sdt Merica bubuk
+        \n\n<b>Cara memasak:</b>\n\n<b>Langkah 1</b>\n\nCampurkan tepung dengan daging dan sayuran.\n\n<b>Langkah 2</b>\n\nMasukkan semua bumbu, masukan AJI-NO-MOTO®, kemudian aduk rata.\n\n<b>Langkah 3</b>\n\nBentuk adonan bulat dan rebus adonan bakso ke dalam air mendidih hingga mengapung angkat tiriskan. Sajikan dengan kuah bakso.
+    </string>
+    <string name="body2">Bakso Sayur</string>
+    <string name="desc_nasgor">Nasi Goreng Jawa</string>
+    <string name="waktu_kal2">15 Menit | 1373 Kkal</string>
+    <string name="resep_nasgor">Satu masakan yang selalu jadi andalan di rumah pastinya adalah nasi goreng. Selain masaknya yang mudah, nasi goreng juga bisa dikreasikan sesuai selera!\n\n<b>Bahan-bahan:</b>\n\n400 gr Nasi putih\n\n1 btr Telur\n\n1 bks Sajiku® Bumbu Nasi Goreng Rasa Kecap\n\n5 btg Sawi hijau\n\n2 bh Cabai rawit merah\n\n4 sdm Minyak goreng
+    \n\n<b>Bahan Pelengkap:</b>\n\nKerupuk bawang\n\nTimun\n\nTomat\n\nTelur ceplok
+    \n\n<b>Cara memasak:</b>\n\n<b>Langkah 1</b>\n\nPotong sawi hijau dan cabai rawit\n\n<b>Langkah 2</b>\n\nPanaskan minyak goreng, masukkan telur, masak orak arik. Masukkan sawi hijau dan cabai rawit.\n\n<b>Langkah 3</b>\n\nMasukkan nasi putih\n\n<b>Langkah 4</b>\n\nTaburkan Sajiku® Bumbu Nasi Goreng Rasa Kecap, aduk hingga rata, sajikan.
+    </string>
+    <string name="body3">Nasi Goreng Jawa</string>
+    <string name="desc_telur">Telur Kukus</string>
+    <string name="waktu_kal3">25 Menit | 463 Kkal</string>
+    <string name="resep_telur">Telur dikukus? Bisa dong, tidak hanya digoreng atau direbus, telur juga bisa diolah dengan cara dikukus. Seperti Telur Kukus Ala Masako® yang dijamin akan menambah nikmatnya suasana makan bersama keluarga. Sehatnya telur dan jamur ditambah Masako® yang lezatnya juara, dijamin masakan Mama akan selalu menjadi favorit keluarga.
+\n\n<b>Bahan-bahan:</b>\n\n3 sdt Masako® Ayam\n\n5 butir telur, kocok\n\n500ml air\n\n2 sdm kecap asin\n\n1 sdt lada bubuk\n\n½ sdt gula pasir
+        \n\n<b>Bahan Pelengkap/Topping:</b>\n\n3 buah jamur, rendam dan potong 6 bagian\n\n1 buah wortel, iris tipis\n\n2 batang crabstick, iris tipis
+        \n\n<b>Cara memasak:</b>\n\n<b>Langkah 1</b>\n\nSiapkan bahan-bahan yang dibutuhkan sesuai dengan penjelasan pada resep..\n\n<b>Langkah 2</b>\n\nKocok telur, campurkan dengan air, kecap asin, lada bubuk, gula pasir. Aduk rata.\n\n<b>Langakah 3</b>\n\nLengkapi dengan Masako® Ayam. Aduk rata, sisihkan.\n\n<b>Langkah 4</b>\n\nTuangkan kocokan telur kedalam mangkuk kecil, tambahkan bahan pelengkap diatasnya. Kukus hingga matang. Sajikan selagi hangat.
+</string>
+    <string name="body4">Telur Kukus</string>
+    <string name="desc_pokcoy">Pokcoy Jamur</string>
+    <string name="waktu_kal4">20 Menit | 193 Kkal</string>
+    <string name="resep_pokcoy">Resep yang mudah dan enak itu sudah biasa, tapi kalau resep yang mudah, enak, praktis dan pastinya sehat, ya cuma The Recipe yang punya! Kali ini resep yang bisa kamu recook di rumah adalah Pokcoy Jamur Telur Masako®, gak perlu ragu lagi untuk kenikmatannya. Dijamin keluarga di rumah pasti suka banget.
+\n\n<b>Bahan-bahan:</b>\n\n100 gr Pokcoy (sudah direbus 1 menit)\n\n100 gr Zucchini (potong setengah lingkar 0,5 cm)\n\n40 gr Jamur kancing (iris 0,5 cm)\n\n40 gr Jamur shimeji\n\n150 gr Wortel (iris serong)\n\n150 gr Wortel (iris serong) 6 btr Telur puyuh (rebus dan kupas)\n\n1 bh Cabe merah (iris serong)\n\n1 bks Masako® Rasa Ayam\n\n1 sdt Kecap ikan\n\n1 sdt Maizena larutkan dengan 1 sdm air\n\n1 btr Bawang putih cincang\n\n2 sdm Minyak goreng\n\n80 ml Air
+        \n\n<b>Cara memasak:</b>\n\n<b>Langkah 1</b>\n\nPotong Zucchini, Jamur, Cabe merah, Wortel dan Bawang Putih. Rebus Pokcoy di air mendidih selama 15 detik, kemudian angkat dan tiriskan.\n\n<b>Langkah 2</b>\n\nTumis bawang putih. Masukkan wortel, telur, jamur, dan air.\n\n<b>Langkah 3</b>\n\nMasukkan zucchini, kecap ikan, cabe merah, dan Masako® Rasa Ayam masak hingga tercampur rata. Tambahkan larutan maizena aduk selama 10 menit hingga mengental angkat.\n\n<b>Langkah 4</b>\n\nTata pokcoy di atas piring kemudian siram dengan tumisan jamur telur, sajikan.
+    </string>
+    <string name="body5">Pokcoy Jamur</string>
+    <string name="desc_nugget">Nugget Tahu Tempe</string>
+    <string name="waktu_kal5">30 Menit | 747 Kkal</string>
+    <string name="resep_nugget">Makanan beku seperti nugget, memang lezat dan praktis, tapi jangan sampai dimakan terlalu sering! Sekarang, The Recipe mau ngasih kamu resep untuk nugget sehat yang mudah dibuat sendiri dengan bahan-bahan sederhana. Yuk, lanjut dibaca! Nama resepnya Nugget Tahu-Tempe Ala Sajiku®! Walaupun nggak pakai daging ayam, tapi nugget ini tetap gurih, renyah, dan tentunya lebih sehat untuk dimakan kapan pun
+    \n\n<b>Bahan-bahan:</b>\n\n1 bh / 195 gr Tahu putih (hancurkan/haluskan)\n\n1 papan / 205 gr Tempe (hancurkan/haluskan)\n\n2 btr Telur\n\n1 btg Daun bawang\n\n1 btg Seledri\n\n1 bks Sajiku tempe dan tahu goreng\n\n2 sdm Terigu\n\n500 ml Minyak goreng
+        \n\n<b>Bahan Panir:</b>\n\n100 gr Tepung roti\n\n1 btr Telur kocok
+    \n\n<b>Cara memasak:</b>\n\n<b>Langakah 1</b>\n\nCampurkan tahu tempe daun bawang seledri, telur, terigu dan tuang bumbu Sajiku Tempe Dan Tahu Goreng.\n\n<b>Langkah 2</b>\n\nAduk rata dan bentuk persegi atau kotak lakukan hingga habis.\n\n<b>Langkah 3</b>\n\nBalurkan atau celupkan dengan telur lalu ke tepung roti.\n\n<b>Langkah 4</b>\n\nGoreng dalam minyak hingga matang kuning keemasan. Angkat sajikan.
+    </string>
+    <string name="body6">Nugget Tahu Tempe </string>
+    <string name="username_edit">Username</string>
+    <string name="password_edit">Password</string>
+    <string name="tentang_aplikasi">Tentang aplikasi</string>
+    <string name="share_text">share</string>
+</resources>
